@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Bubbles
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=Bubbles()
+comment3.params=
+comment3.target=void\ makeList()
+comment4.params=g
+comment4.target=void\ showList(java.awt.Graphics)
+comment5.params=
+comment5.target=void\ run()
+comment6.params=e
+comment6.target=boolean\ dispatchKeyEvent(java.awt.event.KeyEvent)
+comment7.params=g
+comment7.target=void\ paint(java.awt.Graphics)
+numComments=8
